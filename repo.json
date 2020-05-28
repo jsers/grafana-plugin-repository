@@ -4010,6 +4010,18 @@
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
+    },
+    {
+      "id": "grafana-n9e-datasource",
+      "type": "datasource",
+      "url": "https://github.com/n9e/grafana-n9e-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "ad0594e5b5b42e5ec683e3d6a664a233203fff0f",
+          "url": "https://github.com/n9e/grafana-n9e-datasource"
+        }
+      ]
     }
   ]
 }
